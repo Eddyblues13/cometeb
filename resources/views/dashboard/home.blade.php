@@ -70,7 +70,7 @@
                                 </div>
                                 <a href="{{route('inter.bank.transfer')}}"><span>International Bank Transfer</span></a>
                             </div>
-                            <div class="d-block text-center">
+                            {{-- <div class="d-block text-center">
                                 <div class="withdraw-icon bg-warning">
                                     <a href="{{route('crypto')}}"><img style="color:white; width:30px;"
                                             src="{{asset('user/images/crypto.png')}}"></a>
@@ -90,7 +90,7 @@
                                             src="{{asset('user/images/skrill.png')}}"></a>
                                 </div>
                                 <span><a href="{{route('skrill')}}">Skrill Withdrawal</a></span>
-                            </div>
+                            </div> --}}
 
                             <div class="d-block text-center">
                                 <div class="withdraw-icon bg-success">
@@ -105,20 +105,20 @@
                                 </div>
                                 <a href="{{route('local.bank.transfer')}}"><span>Local Bank Transfer</span></a>
                             </div>
-                            <div class="d-block text-center">
+                            {{-- <div class="d-block text-center">
                                 <div class="withdraw-icon bg-warning">
                                     <a href="{{route('revolut.bank.transfer')}}"><img style="color:white; width:30px;"
                                             src="{{asset('user/images/revolut.png')}}"></a>
                                 </div>
                                 <a href="{{route('revolut.bank.transfer')}}"><span>Revolut Transfer</span></a>
-                            </div>
-                            <div class="d-block text-center">
+                            </div> --}}
+                            {{-- <div class="d-block text-center">
                                 <div class="withdraw-icon bg-info">
                                     <a href="{{route('wise.bank.transfer')}}"><img style="color:white; width:30px;"
                                             src="{{asset('user/images/wise.png')}}"></a>
                                 </div>
                                 <span><a href="{{route('wise.bank.transfer')}}">Wise Withdrawal</a></span>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
 

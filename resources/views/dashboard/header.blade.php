@@ -210,7 +210,7 @@
                         </a>
 
                     </li>
-                    <li>
+                    {{-- <li>
                         <a class="has-arrow ai-icon" href="{{route('crypto')}}" aria-expanded="false">
                             <i class="fa fa-google-wallet"></i>
                             <span class="nav-text">Crypto Withdrawal</span>
@@ -228,7 +228,7 @@
                             <i class="fa fa-spinner"></i>
                             <span class="nav-text">Skrill Withdrawal</span>
                         </a>
-                    </li>
+                    </li> --}}
                     <li><a class="has-arrow ai-icon" href="{{route('check.page')}}" aria-expanded="false">
                             <i class="fa fa-spinner"></i>
                             <span class="nav-text">Check Deposit</span>

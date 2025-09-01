@@ -47,7 +47,8 @@
                                 <h3><a href="#">Online Banking</a></h3>
                             </div>
                             <p>When it comes to managing your personal or business accounts, you'll be able to quickly
-                                pay bills, transfer money, apply for certain loans and much more through First Unit bank
+                                pay bills, transfer money, apply for certain loans and much more through Commercial
+                                Trade Equity Bank
                                 Online Banking. </p>
                             <a href="#" class="link style1">Learn More <i class="flaticon-right-arrow-1"></i></a>
                         </div>
@@ -60,7 +61,7 @@
                                 <span><i class="flaticon-computer"></i></span>
                                 <h3><a href="#">Mobile Banking </a></h3>
                             </div>
-                            <p>When you're ready to take your member experience to a new level, HawaiiUSA's Mobile
+                            <p>When you're ready to take your member experience to a new level,
                                 Banking enables you to manage your account, move money and more - all from your
                                 smartphone or tablet using our free app. See what you can do! </p>
                             <a href="#" class="link style1">Learn More <i class="flaticon-right-arrow-1"></i></a>
@@ -74,7 +75,8 @@
                                 <span><i class="flaticon-loan-1"></i></span>
                                 <h3><a href="#">Internet Banking</a></h3>
                             </div>
-                            <p>First Unit bank Online Banking Service gives you unrestricted and secure access to your
+                            <p>Commercial Trade Equity Bank Online Banking Service gives you unrestricted and secure
+                                access to your
                                 account, anytime, anywhere on your computer, tablet, smart phones or any
                                 internet-enabled devices. It is your bank on the go! </p>
                             <a href="#" class="link style1">Learn More <i class="flaticon-right-arrow-1"></i></a>
@@ -88,7 +90,8 @@
                                 <span><i class="flaticon-secure-shield"></i></span>
                                 <h3><a href="#">Cards</a></h3>
                             </div>
-                            <p>First Unit bank makes digital payments and transfers easy with various credit, debit and
+                            <p>Commercial Trade Equity Bank makes digital payments and transfers easy with various
+                                credit, debit and
                                 ATM card options to suit your needs. You'll appreciate the anytime access and other
                                 convenient features of these cards. </p>
                             <a href="#" class="link style1">Learn More <i class="flaticon-right-arrow-1"></i></a>
@@ -102,7 +105,8 @@
                                 <span><i class="flaticon-mortarboard"></i></span>
                                 <h3><a href="#">e-Statements</a></h3>
                             </div>
-                            <p> First Unit bank allows account holders to access their statements online where they can
+                            <p> Commercial Trade Equity Bank allows account holders to access their statements online
+                                where they can
                                 download or print them</p>
                             <a href="#" class="link style1">Learn More <i class="flaticon-right-arrow-1"></i></a>
                         </div>

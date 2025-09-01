@@ -267,7 +267,7 @@
                     </span>
                     <div class="service-info">
                         <h3><a href="service-details.html">Mobile Banking</a></h3>
-                        <p>When you're ready to take your member experience to a new level, HawaiiUSA's Mobile
+                        <p>When you're ready to take your member experience to a new level,
                             Banking enables you to manage your account, move money and more - all from your
                             smartphone or tablet using our free app. See what you can do! </p>
                     </div>
@@ -282,7 +282,7 @@
                         <h3><a href="service-details.html">Online Banking</a></h3>
                         <p>When it comes to managing your personal or business accounts, you'll be able to
                             quickly pay bills, transfer money, apply for certain loans and much more through
-                            First Unit bank Online Banking. </p>
+                            Commercial Trade Equity Bank Online Banking. </p>
                     </div>
                 </div>
             </div>
@@ -328,7 +328,7 @@
                     <div class="content-title style1 ">
                         <span>Online Shopping</span>
                         <h2>Shop Online, Make Online Banking Payments</h2>
-                        <p>Commercial Trade Equity Bank Bank leads the pack when it comes to Banking. Whether you’re a
+                        <p>Commercial Trade Equity Bank leads the pack when it comes to Banking. Whether you’re a
                             skilled or completely new to online banking, our platforms give you the tools needed
                             to take advantage of the foreign exchange market’s volatility.</p>
                     </div>
